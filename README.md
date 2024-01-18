@@ -8,7 +8,7 @@ Our overarching hypothesis: We predict that income increases buying power and is
 
 Our project is comprised of these major parts:
 •	Exploratory data analysis of an electric vehicle population in a certain geographic area. We have chosen, in part due to the region’s particular affinity to electric technological innovation and alternative energy options, to refine our analysis to Washington state.
-•	We have utilized datasets from two sources: a 2023 EV dataset published on Kaggle.com that shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL); and U.S. Census Bureau data (agsc5) for 2022, the latest available. The former gives us a dataset of 8340 unique electric vehicles with which to work.
+•	We have utilized datasets from two sources: a 2023 EV dataset published on Kaggle.com that shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL); and U.S. Census Bureau data for 2022, the latest available. The former gives us a dataset of 8340 unique electric vehicles with which to work.
 •	In merging these two datasets, we created a thorough dataframe that provides us vehicular and population data necessary to test our hypotheses.
 
 The Role of Income
