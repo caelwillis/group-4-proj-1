@@ -1,5 +1,6 @@
 # group-4-proj-1
 Washington State Electric Vehicle Ownership Exploratory Data Analysis -- The Effects of Income, Make, Type, and Infrastructure on EV Ownership
+(NB: All graphs and charts cited are in the "Graphs" folder in Main Git Hub Repository)
 
 
 We are performing an exploratory data analysis (EDA) of electric vehicles (EVs), specifically of what factors (e.g. income) are associated with electric vehicle purchase, how existing infrastructure in an area (e.g. charging stations) provides insight into EV ownership in that area. Other variables we have followed include EV Make and Type, (BEV vs. PHEV), EV Pricing, and overall geographic location that may correlate to an increase in EVs. Macro factors such as overall technological progress, the efficiency/cost of building EVs in general, and popular trends dependent on the political and social culture of the population are to be kept in mind though not explicitly addressed via numerical data in the scope of this project.
