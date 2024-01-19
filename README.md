@@ -42,11 +42,7 @@ To support this, we graphed the a bar chart showing highest Per Capita Income Zi
 
 
 Conclusion
-There is a strong positive correlation between ownership of EV by per capita income
- EV ownership by zip code is spread out widely, with no discernable correlation found between wealthier zip codes and EV ownership
-PHEVs are purchased by a larger range of Median Incomes Per Capita, with the median income being $50,000 per year versus nearly $60,000 for BEVs
-When using the Make of EV as the independent variable, its price/brand is strongly positively correlated to the Median Income Per Capita of the buyer
-When we conducted linear regression of number of charging stations vs. income per capita there was a very weak positive correlation of r = 0.12
-![image](https://github.com/caelwillis/group-4-proj-1/assets/151100165/6b33e4a0-5921-4460-85e4-7b3cce376bd7)
+Conducive with our original hypothesis, there is a strong positive correlation between ownership of EV by per capita income. EV ownership by zip code is spread out widely, with no discernable correlation found between wealthier zip codes and EV ownership
+PHEVs are purchased by a larger range of Median Incomes Per Capita, with the median income being $50,000 per year versus nearly $60,000 for BEVs. When using the Make of EV as the independent variable, its price/brand is strongly positively correlated to the Median Income Per Capita of the buyer, though of course the age of the vehicle (if we were to extend the scope of this project) would be also taken into account, especially as the EV market ages and re-sales become more common. When we conducted linear regression of number of charging stations vs. income per capita there was a very weak positive correlation of r = 0.12 -- this suggests that further multiple variables (e.g. electricity circuit infrastructure of a certain area, and the relative cost). For next steps, we would most likely expand the scope of this project to be country- or global-in scale.
 
 
